@@ -71,7 +71,7 @@ module.exports = {
 	READ_MESSAGES: toBool(process.env.READ_MESSAGES || "true"),
 	REJECT_CALL: toBool(process.env.REJECT_CALL || "false"),
 	REJECT_CALL_MSG: process.env.REJECT_CALL_MSG || "_Calls are not allowed. Please don’t call again!._",
-	SESSION_ID: process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:15000667031642843f89a671af577816",
+	SESSION_ID: process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:6f2171e04c81a16ca6250bf5fd45dcbf",
 	START_MSG: toBool(process.env.START_MSG || "true"),
 	STICKER_DATA: process.env.STICKER_DATA || `X BOT MD;ASWIN SPARKY`,
 	SUDO: process.env.SUDO || "94763353368",
